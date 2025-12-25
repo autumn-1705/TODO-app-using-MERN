@@ -1,0 +1,46 @@
+.TodoBox{
+  text-align: center;
+}
+
+#addButton{
+  margin-top : 50px;
+  padding : 10px;
+  background-color: black;
+  color : white;
+  border : 2px solid black
+}
+
+
+#taskBox{
+  display : flex;
+  border : 2px solid black;
+  width : 300px;
+  text-align: center;
+  height : 45px;
+  margin-bottom : 10px;
+  border-radius : 5px;
+}
+
+#taskList{
+  display : flex;
+  flex-direction: column;
+  align-items : center;
+  margin-top : 30px;
+}
+
+#tickButton{
+  padding : 10px;
+  background-color : black;
+  color : white;
+  border : 2px solid black;
+}
+
+
+
+#deleteButton{
+  padding: 13px;
+  background-color: black;
+  color: white;
+  border: 2px solid black;
+  margin-left: auto;
+}
